@@ -1,3 +1,2 @@
-#!/bin/bash
-ls -la
-chmod u+x 4-listmorefiles
+#!/bin/bash/
+ls -a
