@@ -2,4 +2,4 @@
 
 # This scripts prins all running process
 
-ps -aux | less
+ps auxf
