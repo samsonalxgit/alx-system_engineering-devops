@@ -3,4 +3,4 @@
 # This scripts prins all running process
 
 
-ps auxf
+ps 
