@@ -1,5 +1,6 @@
 #!/usr/bin/env bas
- for ((i =1; i<=10;i++))
+#For loop for printing Best School
+for ((i =1; i<=10;i++))
 do
-echo"Best School"
+	echo"Best School"
 done
