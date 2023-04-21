@@ -1,5 +1,5 @@
 #resource declaration start with puppet
-file { '/tmp/codingschool:'
+file { '/tmp/codingschoo':
 ensure => file,
 path => '/tmp/icodingschool',
 mode => '0744',
