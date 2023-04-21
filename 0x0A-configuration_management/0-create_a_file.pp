@@ -1,5 +1,5 @@
 #start with puppet
-file { '/tmp/codingschool'
+file { '/tmp/codingschool:'
 	ensure => file,
 	path => '/tmp/codingschool',
 	mode => '0744',
