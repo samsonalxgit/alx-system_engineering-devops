@@ -1,6 +1,6 @@
 #start with puppet
 file { '/tmp/codingschool:'
-ensure => file,
+ensure => file',
 path => '/tmp/codingschool',
 mode => '0744',
 owner => 'www-data',
