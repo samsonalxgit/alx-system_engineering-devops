@@ -1,7 +1,7 @@
 #resource declaration start with puppet
-file { '/tmp/codingschoo':
+file { '/tmp/codingschoo'
 ensure => file,
-path => '/tmp/codingschool',
+path => '/tmp/school',
 mode => '0744',
 owner => 'www-data',
 group => 'www-data',
