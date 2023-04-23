@@ -1,4 +1,4 @@
-#!/usr/bin/env/ bash
+#!/usr/bin/env bash
 #RSA pairing 
 
 ssh -keygen -t rsa -f school -b 4096 -N betty
