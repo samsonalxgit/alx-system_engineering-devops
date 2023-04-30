@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #The name of the custom HTTP header must be X-Served-By
 #The value of the custom HTTP header must be the hostname of the server Nginx is running on
-# Configures a new Ubuntu server with a custom HTTP header response
+
 apt-get update
 apt-get install -y nginx
 
