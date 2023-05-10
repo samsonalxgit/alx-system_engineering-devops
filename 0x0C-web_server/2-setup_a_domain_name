@@ -1,1 +1,27 @@
-e-litetech.tech
+{
+	"WhoisRecord": {
+		"domainName": "elitetech.tech",
+		"parseCode": 0,
+		"audit": {
+			"createdDate": "2023-05-10 21:25:44 UTC",
+			"updatedDate": "2023-05-10 21:25:44 UTC"
+		},
+		"dataError": "MISSING_WHOIS_DATA",
+		"registryData": {
+			"domainName": "elitetech.tech",
+			"rawText": "(omitted in the demo)",
+			"parseCode": 64,
+			"header": "(omitted in the demo)",
+			"strippedText": "(omitted in the demo)",
+			"footer": "(omitted in the demo)",
+			"audit": {
+				"createdDate": "2023-05-10 21:25:44 UTC",
+				"updatedDate": "2023-05-10 21:25:44 UTC"
+			},
+			"dataError": "MISSING_WHOIS_DATA",
+			"whoisServer": "whois.nic.tech"
+		},
+		"domainAvailability": "AVAILABLE",
+		"domainNameExt": ".tech"
+	}
+}
