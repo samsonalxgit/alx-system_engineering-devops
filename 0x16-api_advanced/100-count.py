@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" API reddit"""
+""" raddit api"""
 
 import json
 import requests
