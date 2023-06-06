@@ -3,7 +3,6 @@
 
 import json
 import requests
-import main.py
 
 
 def count_words(subreddit, word_list, after="", count=[]):
